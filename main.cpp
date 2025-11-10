@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-#include "maxheap25.h"
+#include "heap_classes.h"
 
 int main(int argc, char *argv[])
 {
