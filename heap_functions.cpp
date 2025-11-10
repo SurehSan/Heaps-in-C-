@@ -1,4 +1,4 @@
-#include "maxheap25.h"
+#include "heap_classes.h"
 
 // default constructor
 heap::heap()
