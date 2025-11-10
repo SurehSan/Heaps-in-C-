@@ -1,5 +1,5 @@
 #include <iostream>
-#include "maxheap25.h"
+#include "heap_classes.h"
 using namespace std;
 
 void useheaptosort(int nums[], int many)
